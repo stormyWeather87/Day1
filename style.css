@@ -1,0 +1,60 @@
+section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+    border-style: solid;
+    border-color: azure;
+    border-radius: 25px 25px;
+    box-shadow: inset 5px 5px 10px rgba(255,19,240,.5), 5px 5px 10px rgba(255,19,240,.1);
+    
+
+
+    
+}
+
+}
+h2{
+    font-family: Georgia, 'Pacifico', Times, serif;
+    color: azure;
+}
+body{
+    text-align: center;
+   
+    
+    background-color: rgb(153, 98, 241);
+    img-height: 100%;
+    
+}
+ul{
+    display: inline;
+    text-align: left;
+    align-items: center;
+    margin-right: 30px;
+
+}
+
+.facts{
+    display: flex;
+    margin-bottom: 20px;
+    font-family: pacifico;
+}
+
+
+
+li{
+    text-align: center;
+    align-items: center;
+}
+
+img{
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+
+}
+
+
+
+
+
